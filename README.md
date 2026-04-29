@@ -45,7 +45,7 @@ App/
 ---
 ## 👤 Thông Tin Thực Hiện
 * **Nhóm sinh viên:** Nhóm 13
-* **Lớp:** 50K33 - Khoa Thống kê - Tin học
+* **Lớp:** 50K33 - Khoa Tài chính - Chuyên ngành Fintech
 * **Trường:** Đại học Kinh tế - Đại học Đà Nẵng (DUE)
 * **Giảng viên hướng dẫn:** Thầy Trịnh Công Duy
 * **Học phần:** Phân tích dữ liệu lớn trong Fintech (FIN3012_50K33)
